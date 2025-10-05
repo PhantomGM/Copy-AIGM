@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mythic GME Digital Assistant (AI Enhanced)",
+  "description": "A digital assistant for the Mythic Game Master Emulator solo role-playing system, enhanced with AI capabilities to generate narrative content, suggest ideas, and interpret random events.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
